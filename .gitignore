@@ -1,0 +1,5 @@
+praw_config.py
+*.sublime-project
+*.sublime-workspace
+*.pyc
+*-results.json
